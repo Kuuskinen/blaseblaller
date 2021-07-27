@@ -1,7 +1,7 @@
 <template>
   <div>
     <router-link to="/championships">Championships</router-link>
-    <!--<router-link to="/bar">Go to Bar</router-link>-->
+    <router-link to="/leagues"> Leagues</router-link>
   </div>
 </template>
 
